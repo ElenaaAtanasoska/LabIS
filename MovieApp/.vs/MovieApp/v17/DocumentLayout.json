@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\atana\\desktop\\integriraniaud\\movieapp (1)\\movieapp\\movieapp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\atana\\desktop\\integriraniaud\\movieapp (1)\\movieapp\\movieapp\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MovieApp_47163186_e8da_4c48_ba85_4c4f901aeb18/True/SqlTable/dbo.TicketOrders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\atana\\desktop\\integriraniaud\\movieapp (1)\\movieapp\\movieapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\atana\\desktop\\integriraniaud\\movieapp (1)\\movieapp\\movieapp\\models\\ticketinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\ticketinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\atana\\desktop\\integriraniaud\\movieapp (1)\\movieapp\\movieapp\\views\\tickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\views\\tickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MovieApp_47163186_e8da_4c48_ba85_4c4f901aeb18/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MovieApp_47163186_e8da_4c48_ba85_4c4f901aeb18/True/SqlTable/dbo.Orders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MovieApp_47163186_e8da_4c48_ba85_4c4f901aeb18/True/SqlTable/dbo.Order.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MovieApp_47163186_e8da_4c48_ba85_4c4f901aeb18/True/SqlTable/dbo.TicketInOrder.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\atana\\desktop\\integriraniaud\\movieapp (1)\\movieapp\\movieapp\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\atana\\desktop\\integriraniaud\\movieapp (1)\\movieapp\\movieapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\atana\\desktop\\integriraniaud\\movieapp (1)\\movieapp\\movieapp\\models\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\atana\\desktop\\integriraniaud\\movieapp (1)\\movieapp\\movieapp\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\atana\\desktop\\integriraniaud\\movieapp (1)\\movieapp\\movieapp\\models\\dto\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\dto\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\atana\\desktop\\integriraniaud\\movieapp (1)\\movieapp\\movieapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\atana\\desktop\\integriraniaud\\movieapp (1)\\movieapp\\movieapp\\models\\eshopapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\eshopapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\atana\\desktop\\integriraniaud\\movieapp (1)\\movieapp\\movieapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\atana\\desktop\\integriraniaud\\movieapp (1)\\movieapp\\movieapp\\views\\tickets\\addtickettoorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\views\\tickets\\addtickettoorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\atana\\desktop\\integriraniaud\\movieapp (1)\\movieapp\\movieapp\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\atana\\desktop\\integriraniaud\\movieapp (1)\\movieapp\\movieapp\\views\\tickets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\views\\tickets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\atana\\desktop\\integriraniaud\\movieapp (1)\\movieapp\\movieapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\atana\\desktop\\integriraniaud\\movieapp (1)\\movieapp\\movieapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|c:\\users\\atana\\desktop\\integriraniaud\\movieapp (1)\\movieapp\\movieapp\\migrations\\20240326131413_again3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCE6686-EBE6-4E52-AD8D-E84AF8F427C0}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\migrations\\20240326131413_again3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "MovieApp\\Controllers\\TicketsController.cs",
+              "ViewState": "AQIAAOMAAAAAADhsVLktwO8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:52:22.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.TicketOrders [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MovieApp_47163186_e8da_4c48_ba85_4c4f901aeb18/True/SqlTable/dbo.TicketOrders.sql",
+              "ToolTip": "dbo.TicketOrders [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-26T14:54:46.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "MovieApp\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAqwMQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T11:05:36.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MovieApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:45:28.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketInOrder.cs",
+              "DocumentMoniker": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Models\\TicketInOrder.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\TicketInOrder.cs",
+              "ToolTip": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Models\\TicketInOrder.cs",
+              "RelativeToolTip": "MovieApp\\Models\\TicketInOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:39:25.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MovieApp_47163186_e8da_4c48_ba85_4c4f901aeb18/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-26T15:09:52.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Views\\Tickets\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Views\\Tickets\\Index.cshtml",
+              "ToolTip": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Views\\Tickets\\Index.cshtml",
+              "RelativeToolTip": "MovieApp\\Views\\Tickets\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T11:08:53.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.Orders [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MovieApp_47163186_e8da_4c48_ba85_4c4f901aeb18/True/SqlTable/dbo.Orders.sql",
+              "ToolTip": "dbo.Orders [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-26T15:09:26.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Order [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MovieApp_47163186_e8da_4c48_ba85_4c4f901aeb18/True/SqlTable/dbo.Order.sql",
+              "ToolTip": "dbo.Order [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-26T15:09:35.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.TicketInOrder [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MovieApp_47163186_e8da_4c48_ba85_4c4f901aeb18/True/SqlTable/dbo.TicketInOrder.sql",
+              "ToolTip": "dbo.TicketInOrder [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-26T14:54:59.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "MovieApp\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T13:32:23.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Models\\Order.cs",
+              "RelativeToolTip": "MovieApp\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:39:03.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Models\\DTO\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\DTO\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Models\\DTO\\OrderDTO.cs",
+              "RelativeToolTip": "MovieApp\\Models\\DTO\\OrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T14:00:54.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Models\\Ticket.cs",
+              "RelativeToolTip": "MovieApp\\Models\\Ticket.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA0wA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:39:44.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddToCartDTO.cs",
+              "DocumentMoniker": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Models\\DTO\\AddToCartDTO.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\DTO\\AddToCartDTO.cs",
+              "ToolTip": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Models\\DTO\\AddToCartDTO.cs",
+              "RelativeToolTip": "MovieApp\\Models\\DTO\\AddToCartDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:43:44.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieApp\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:40:59.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EShopApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Models\\EShopApplicationUser.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\EShopApplicationUser.cs",
+              "ToolTip": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Models\\EShopApplicationUser.cs",
+              "RelativeToolTip": "MovieApp\\Models\\EShopApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:47:06.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "MovieApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAiwIMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:49:53.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddTicketToOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Views\\Tickets\\AddTicketToOrder.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Views\\Tickets\\AddTicketToOrder.cshtml",
+              "ToolTip": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Views\\Tickets\\AddTicketToOrder.cshtml",
+              "RelativeToolTip": "MovieApp\\Views\\Tickets\\AddTicketToOrder.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T11:11:17.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240326131413_again3.cs",
+              "DocumentMoniker": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Migrations\\20240326131413_again3.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Migrations\\20240326131413_again3.cs",
+              "ToolTip": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Migrations\\20240326131413_again3.cs",
+              "RelativeToolTip": "MovieApp\\Migrations\\20240326131413_again3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T13:14:13.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Views\\Tickets\\Create.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Views\\Tickets\\Create.cshtml",
+              "ToolTip": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Views\\Tickets\\Create.cshtml",
+              "RelativeToolTip": "MovieApp\\Views\\Tickets\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T11:11:22.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "MovieApp\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T11:16:44.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "MovieApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T10:49:29.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Program.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Program.cs",
+              "ToolTip": "C:\\Users\\atana\\Desktop\\integriraniaud\\MovieApp (1)\\MovieApp\\MovieApp\\Program.cs",
+              "RelativeToolTip": "MovieApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:46:56.261Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
